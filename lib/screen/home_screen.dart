@@ -77,6 +77,21 @@ class _HomePageState extends State<HomePage> {
       body: Container(
         child: Column(
           children: [
+            // Container(
+            //   height: 400,
+            //   width: 500,
+            //   decoration: BoxDecoration(
+            //     image: DecorationImage(
+            //       image: AssetImage(
+            //         "assets/quiz.png",
+            //       ),
+            //       fit: BoxFit.fill,
+            //     ),
+            //   ),
+            // ),
+            // Padding(
+            //   padding: EdgeInsets.only(top: 30),
+            // ),
             Padding(
               padding: const EdgeInsets.all(50),
               child: Container(
